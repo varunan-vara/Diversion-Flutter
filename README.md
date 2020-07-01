@@ -1,5 +1,10 @@
 # Diversion
 A simple place to write your thoughts down and express yourself. 
+
+# NOTE
+This app does not work. To get the most up-to-date version, please consult this project:https://github.com/TSharvananthan/Diversion
+This is a flutter variant. App is now written in JS with ReactNative.
+
 ## Todo
 - [ ] Frontend
 	- [ ] Sign In Page
